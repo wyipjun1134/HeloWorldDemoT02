@@ -1,1 +1,9 @@
+name: CI for Remote HelloWorld //YML Filename
 
+on:
+  push:
+    branches:[main]
+    
+jobs:
+  build:
+    
