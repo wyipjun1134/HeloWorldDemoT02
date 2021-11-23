@@ -21,7 +21,7 @@ jobs:
     - name: Checkout Own Repo to cloud
       uses: actions/checkout@v2
       with: 
-        repository: lowkh/HelloWorldTestRun
+        repository: wyipjun1134/HeloWorldDemoT02
     
     - name: Checkout private repo remotely
       uses: actions/checkout@v2
